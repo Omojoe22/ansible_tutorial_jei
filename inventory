@@ -1,5 +1,9 @@
+[web_servers]
 ubuntu-a@172.16.12.109
-ubuntu-b@172.16.12.108
-ubuntu-d@172.16.12.107
-ubuntu-e@172.16.12.111
 centosdp@172.16.12.112
+
+[db_servers]
+ubuntu-b@172.16.12.108
+
+[file_servers]
+ubuntu-d@172.16.12.107
