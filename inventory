@@ -1,14 +1,14 @@
 [web_servers]
-ubuntu-a@172.16.12.117
+ubuntu-a@10.0.0.72
 centos2@10.0.0.114
 jidonor@10.0.0.11
 
 [db_servers]
-ubuntu-b@172.16.12.114
+ubuntu-b@10.0.0.117
 centos1@10.0.0.148
 
 [file_servers]
-ubuntu-d@172.16.12.116
+ubuntu-d@10.0.0.15
 centos1@10.0.0.148
 
 [workstations]
